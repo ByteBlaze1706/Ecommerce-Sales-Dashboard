@@ -4,7 +4,7 @@ This project is part of my Data Science & Analytics Internship at Future Interns
 
 The objective of this project is to analyze e-commerce transaction data to understand business performance, customer behavior, and sales trends, and to present insights through an interactive Power BI dashboard.
 
-📌 Project Overview
+# 📌 Project Overview
 E-commerce businesses generate large volumes of transactional data that can be used to drive strategic decisions.
 In this project, I analyzed an online retail dataset to:
 
@@ -18,7 +18,7 @@ Explore geographic sales distribution
 
 Create an interactive business dashboard
 
-📊 Key Features
+# 📊 Key Features
 
 Data Cleaning & Transformation
 
@@ -34,7 +34,7 @@ Time-based Trend Analysis
 
 Interactive Power BI Dashboard
 
-🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 Power BI
 
@@ -44,14 +44,14 @@ Power Query
 
 DAX (Data Analysis Expressions)
 
-📂 Dataset Source
+# 📂 Dataset Source
 
 Online Retail II Dataset
 Source: https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository
 
 ⚠️ Note: Dataset file is not uploaded due to GitHub file size limitations.
 
-📈 Insights Generated
+# 📈 Insights Generated
 
 Total revenue and total sales quantity
 
@@ -65,11 +65,11 @@ Country-wise revenue contribution
 
 Business growth patterns
 
-📌 Conclusion
+# 📌 Conclusion
 
 This project demonstrates how business data can be transformed into meaningful insights using Power BI dashboards. It highlights the importance of data visualization in understanding sales performance and supporting business decision-making.
 
-🔗 Internship Program
+# 🔗 Internship Program
 
 This project is completed as part of the
 Data Science & Analytics Internship at Future Interns.
