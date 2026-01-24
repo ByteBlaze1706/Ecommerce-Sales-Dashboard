@@ -1,4 +1,4 @@
-FUTURE_DS_01 — Business Sales Dashboard from E-commerce Data (Power BI)
+# FUTURE_DS_01 — Business Sales Dashboard from E-commerce Data (Power BI)
 
 This project is part of my Data Science & Analytics Internship at Future Interns.
 
