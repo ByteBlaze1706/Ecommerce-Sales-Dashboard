@@ -223,7 +223,7 @@ Included in this repository:
 Ecommerce-Sales-Dashboard/
 │
 ├── README.md
-├── Ecommerce_Sales_Dashboard.pbix
+├── Business_Sales_Dashboard.pbix
 ├── dashboard_preview.png.jpeg
 ```
 
